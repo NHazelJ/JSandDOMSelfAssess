@@ -12,4 +12,5 @@ Simple Airbnb listings page for class.
 
 ## Live Website
 
-Netlify link: 
+Netlify link: https://jsanddomselfassess.netlify.app/
+
