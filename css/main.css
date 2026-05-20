@@ -1,0 +1,36 @@
+body {
+  background-color: #f7f7f7;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.listing-img {
+  height: 180px;
+  object-fit: cover;
+}
+
+.price {
+  font-weight: bold;
+}
+
+.price span {
+  font-size: 0.8rem;
+  font-weight: normal;
+  background-color: #eeeeee;
+  padding: 3px 6px;
+  border-radius: 5px;
+}
+
+.host-box {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.host-box img {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}
